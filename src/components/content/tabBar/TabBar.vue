@@ -10,7 +10,7 @@
   }
 </script>
 <style scoped>
-  @import "../../assets/css/base.css";
+  @import "../../../assets/css/base.css";
 
   #tab-bar {
     position: fixed;
